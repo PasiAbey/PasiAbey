@@ -23,19 +23,14 @@ I am an Undergraduate Student passionate about <b>Machine Learning<b/>, <b>Data 
 
 
 Let's connect!&emsp;&emsp;[<img width="20" height="20" alt="Linkedin" src="https://github.com/user-attachments/assets/a7fcc823-2ff5-40f9-881e-6577fc6be938" />](https://www.linkedin.com/in/pasiabey/)&emsp;
-[<img width="20" height="20" alt="github" src="https://github.com/user-attachments/assets/4182c2ad-ac8c-451b-9f13-bb69dd07332e" />](https://github.com/PasiAbey)
-
-
-
-
-
-
+[<img width="20" height="20" alt="github" src="https://github.com/user-attachments/assets/e3c75e4d-c123-43cd-a659-f3d68e28eeb9" />](https://github.com/PasiAbey)
 
 
 
 
 <!--
 **PasiAbey/PasiAbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
