@@ -18,8 +18,6 @@ I am an Undergraduate Student passionate about <b>Machine Learning<b/>, <b>Data 
 </p>
 <br/>
 <br/>
-<br/>
-<br/>
 
 
 Let's connect!&emsp;&emsp;[<img width="20" height="20" alt="Linkedin" src="https://github.com/user-attachments/assets/a7fcc823-2ff5-40f9-881e-6577fc6be938" />](https://www.linkedin.com/in/pasiabey/)&emsp;
