@@ -1,5 +1,7 @@
+
 # Hi, I'm Pasindu 👋🏽 🧑🏽‍💻
 
+<img width="1500" height="500" alt="Pasindu" src="https://github.com/user-attachments/assets/129df049-12f5-45ab-b23a-0b2e2ef996c9" />
 <!--
 **PasiAbey/PasiAbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
