@@ -1,7 +1,6 @@
 
 # Hi, I'm Pasindu 👋🏽 🧑🏽‍💻
-
-<img width="1500" height="500" alt="Pasindu" src="https://github.com/user-attachments/assets/129df049-12f5-45ab-b23a-0b2e2ef996c9" />
+<img width="1500" height="500" alt="GitHub" src="https://github.com/user-attachments/assets/0edcbf87-6258-40e3-bf09-b3e777b16f40" />
 
 
 <br/>
