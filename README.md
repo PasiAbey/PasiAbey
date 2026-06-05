@@ -1,44 +1,58 @@
+# Hi, I'm Pasindu 👋🏽
 
-# Hi, I'm Pasindu 👋🏽 
-
-<img width="1500" height="500" alt="GitHub" src="https://github.com/user-attachments/assets/0edcbf87-6258-40e3-bf09-b3e777b16f40" />
-
-
+<img width="1500" height="500" alt="GitHub Banner" src="https://github.com/user-attachments/assets/0edcbf87-6258-40e3-bf09-b3e777b16f40" />
 
 <br/>
 <br/>
-I am an Undergraduate Student passionate about <b>Machine Learning<b/>, <b>Data Science<b/>, and <b>Information Security<b/>. My goal is to solve real-world problems using Intelligent Systems.
 
+## ☁️ Cloud & DevOps Enthusiast | Computing Undergraduate
 
-<h3 align="left">Languages and Tools:</h3>
+I am a Computing undergraduate focused on **Cloud Computing, DevOps Engineering, and Backend Systems**.
+
+I enjoy building and understanding how scalable systems work — from containerized applications to automated deployments and cloud-based infrastructure.
+
+My focus is on learning how to design, deploy, and operate reliable systems using modern DevOps practices.
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+### 🧠 Core Skills
+- Linux System Administration
+- Networking Fundamentals
+- Backend Development (APIs)
+- Cloud & Infrastructure Concepts
+
+### 🛠️ DevOps Toolkit
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" alt="Docker" title="Docker" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" alt="Linux" title="Linux" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="45" alt="Nginx" title="Nginx" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" alt="Azure" title="Azure" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" title="Git" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" alt="GitHub" title="GitHub" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" title="Python" />
 </p>
-<br/>
-<br/>
 
+---
 
-Let's connect!&emsp;&emsp;[<img width="20" height="20" alt="Linkedin" src="https://github.com/user-attachments/assets/a7fcc823-2ff5-40f9-881e-6577fc6be938" />](https://www.linkedin.com/in/pasiabey/)&emsp;
-[<img width="20" height="20" alt="github" src="https://github.com/user-attachments/assets/e3c75e4d-c123-43cd-a659-f3d68e28eeb9" />](https://github.com/PasiAbey)
+## 🚧 What I'm Working On
 
+- Containerizing applications using Docker
+- Building CI/CD pipelines for automation
+- Learning cloud deployment workflows
+- Developing backend APIs with scalable design
+- Practicing system design fundamentals
 
+---
 
+## 📊 GitHub Stats
 
-<!--
-**PasiAbey/PasiAbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="
