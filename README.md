@@ -5,23 +5,11 @@
 <br/>
 <br/>
 
-## ☁️ Cloud & DevOps Enthusiast | Computing Undergraduate
+## Cloud & DevOps Enthusiast | Computing Undergraduate
 
-I am a Computing undergraduate focused on **Cloud Computing, DevOps Engineering, and Backend Systems**.
-
-I enjoy building and understanding how scalable systems work — from containerized applications to automated deployments and cloud-based infrastructure.
-
-My focus is on learning how to design, deploy, and operate reliable systems using modern DevOps practices.
+I am a Computing undergraduate focused on **Cloud Computing, DevOps Engineering, and Backend Systems**. I enjoy building and understanding how scalable systems work — from containerized applications to automated deployments and cloud-based infrastructure. My focus is on learning how to design, deploy, and operate reliable systems using modern DevOps practices.
 
 ---
-
-## ⚙️ Tech Stack & Tools
-
-### 🧠 Core Skills
-- Linux System Administration
-- Networking Fundamentals
-- Backend Development (APIs)
-- Cloud & Infrastructure Concepts
 
 ### 🛠️ DevOps Toolkit
 <p align="left">
@@ -42,7 +30,7 @@ My focus is on learning how to design, deploy, and operate reliable systems usin
 
 ---
 
-## 🚧 What I'm Working On
+##  What I'm Working On
 
 - Containerizing applications using Docker
 - Building CI/CD pipelines for automation
@@ -51,8 +39,3 @@ My focus is on learning how to design, deploy, and operate reliable systems usin
 - Practicing system design fundamentals
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="
